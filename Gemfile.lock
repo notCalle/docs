@@ -51,7 +51,7 @@ GEM
     lumberjack (1.2.8)
     memo_wise (1.7.0)
     method_source (1.0.0)
-    mini_portile2 (2.8.0)
+    mini_portile2 (2.8.5)
     multi_json (1.15.0)
     nanoc (4.12.13)
       addressable (~> 2.5)
@@ -87,8 +87,8 @@ GEM
       nanoc-cli (~> 4.11, >= 4.11.15)
       nanoc-core (~> 4.11, >= 4.11.15)
     nenv (0.3.0)
-    nokogiri (1.13.10)
-      mini_portile2 (~> 2.8.0)
+    nokogiri (1.16.2)
+      mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     notiffany (0.1.3)
       nenv (~> 0.1)
@@ -103,7 +103,7 @@ GEM
       stringio
     public_suffix (5.0.0)
     pygments.rb (2.3.0)
-    racc (1.6.1)
+    racc (1.7.3)
     rack (2.2.4)
     rb-fchange (0.0.6)
       ffi
